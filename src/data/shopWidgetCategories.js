@@ -1,13 +1,13 @@
 export default [
     {
         id: 1,
-        name: 'Power Tools',
+        name: 'Tobaco products',
         url: '',
         children: [
             { id: 2, name: 'Engravers', url: '' },
             { id: 3, name: 'Drills', url: '' },
             { id: 4, name: 'Wrenches', url: '' },
-            { id: 5, name: 'Plumbing', url: '' },
+            { id: 5, name: 'Vape & E-cig', url: '' },
             { id: 6, name: 'Wall Chaser', url: '' },
             { id: 7, name: 'Pneumatic Tools', url: '' },
             { id: 8, name: 'Milling Cutters', url: '' },
@@ -15,7 +15,7 @@ export default [
     },
     {
         id: 9,
-        name: 'Hand Tools',
+        name: 'Beverages',
         url: '',
         children: [
             { id: 10, name: 'Screwdrivers', url: '' },
@@ -56,8 +56,8 @@ export default [
         url: '',
         children: [
             { id: 29, name: 'Welding Equipment', url: '' },
-            { id: 30, name: 'Power Tools', url: '' },
-            { id: 31, name: 'Hand Tools', url: '' },
+            { id: 30, name: 'Tobaco products', url: '' },
+            { id: 31, name: 'Beverages', url: '' },
             { id: 32, name: 'Measuring Tool', url: '' },
         ],
     },

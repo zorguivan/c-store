@@ -1,6 +1,6 @@
 export default [
     {
-        title: 'Power Tools',
+        title: 'Tobaco Products',
         url: '',
         submenu: {
             type: 'megamenu',
@@ -15,47 +15,16 @@ export default [
                         size: 3,
                         links: [
                             {
-                                title: 'Power Tools',
+                                title: 'Cigars',
                                 url: '',
                                 links: [
-                                    { title: 'Engravers', url: '' },
-                                    { title: 'Drills', url: '' },
-                                    { title: 'Wrenches', url: '' },
-                                    { title: 'Plumbing', url: '' },
-                                    { title: 'Wall Chaser', url: '' },
-                                    { title: 'Pneumatic Tools', url: '' },
-                                    { title: 'Milling Cutters', url: '' },
-                                ],
-                            },
-                            { title: 'Workbenches', url: '', links: [] },
-                            { title: 'Presses', url: '', links: [] },
-                            { title: 'Spray Guns', url: '', links: [] },
-                            { title: 'Riveters', url: '', links: [] },
-                        ],
-                    },
-                    {
-                        size: 3,
-                        links: [
-                            {
-                                title: 'Hand Tools',
-                                url: '',
-                                links: [
-                                    { title: 'Screwdrivers', url: '' },
-                                    { title: 'Handsaws', url: '' },
-                                    { title: 'Knives', url: '' },
-                                    { title: 'Axes', url: '' },
-                                    { title: 'Multitools', url: '' },
-                                    { title: 'Paint Tools', url: '' },
-                                ],
-                            },
-                            {
-                                title: 'Garden Equipment',
-                                url: '',
-                                links: [
-                                    { title: 'Motor Pumps', url: '' },
-                                    { title: 'Chainsaws', url: '' },
-                                    { title: 'Electric Saws', url: '' },
-                                    { title: 'Brush Cutters', url: '' },
+                                    { title: 'Swisher Sweet', url: '' },
+                                    { title: 'Backwoods', url: '' },
+                                    { title: 'Game', url: '' },
+                                    { title: 'White Owl', url: '' },
+                                    { title: 'Black & Mild', url: '' },
+                                    { title: 'HD', url: '' },
+                                    { title: 'Show', url: '' },
                                 ],
                             },
                         ],
@@ -64,15 +33,31 @@ export default [
                         size: 3,
                         links: [
                             {
-                                title: 'Machine Tools',
+                                title: 'Cigarettes',
                                 url: '',
                                 links: [
-                                    { title: 'Thread Cutting', url: '' },
-                                    { title: 'Chip Blowers', url: '' },
-                                    { title: 'Sharpening Machines', url: '' },
-                                    { title: 'Pipe Cutters', url: '' },
-                                    { title: 'Slotting machines', url: '' },
-                                    { title: 'Lathes', url: '' },
+                                    { title: 'ITG Brands', url: '' },
+                                    { title: 'Philip Morris', url: '' },
+                                    { title: 'RJ Reynolds', url: '' },
+                                    { title: 'Premier/Santa Fe/Other', url: ''}
+                                ],
+                            },
+                            {
+                                title: 'Lighters & Accessories',
+                                url: '',
+                            },
+                        ],
+                    },
+                    {
+                        size: 3,
+                        links: [
+                            {
+                                title: 'Smokeless',
+                                url: '',
+                                links: [
+                                    { title: 'Chewing Tobaco', url: '' },
+                                    { title: 'Snuff', url: '' },
+                                    { title: 'Dip', url: '' },
                                 ],
                             },
                         ],
@@ -81,13 +66,12 @@ export default [
                         size: 3,
                         links: [
                             {
-                                title: 'Instruments',
+                                title: 'Cigarette Papers & Extra',
                                 url: '',
                                 links: [
-                                    { title: 'Welding Equipment', url: '' },
-                                    { title: 'Power Tools', url: '' },
-                                    { title: 'Hand Tools', url: '' },
-                                    { title: 'Measuring Tool', url: '' },
+                                    { title: 'Wraps', url: '' },
+                                    { title: 'Tubes', url: '' },
+                                    { title: 'Papers', url: '' },
                                 ],
                             },
                         ],
@@ -97,7 +81,7 @@ export default [
         },
     },
     {
-        title: 'Hand Tools',
+        title: 'Beverages',
         url: '',
         submenu: {
             type: 'megamenu',
@@ -112,7 +96,7 @@ export default [
                         size: 4,
                         links: [
                             {
-                                title: 'Hand Tools',
+                                title: 'Beverages',
                                 url: '',
                                 links: [
                                     { title: 'Screwdrivers', url: '' },
@@ -160,8 +144,8 @@ export default [
                                 url: '',
                                 links: [
                                     { title: 'Welding Equipment', url: '' },
-                                    { title: 'Power Tools', url: '' },
-                                    { title: 'Hand Tools', url: '' },
+                                    { title: 'Tobaco products', url: '' },
+                                    { title: 'Beverages', url: '' },
                                     { title: 'Measuring Tool', url: '' },
                                 ],
                             },
@@ -172,7 +156,7 @@ export default [
         },
     },
     {
-        title: 'Machine Tools',
+        title: 'Vape & E-cig',
         url: '',
         submenu: {
             type: 'megamenu',
@@ -187,7 +171,7 @@ export default [
                         size: 6,
                         links: [
                             {
-                                title: 'Hand Tools',
+                                title: 'Beverages',
                                 url: '',
                                 links: [
                                     { title: 'Screwdrivers', url: '' },
@@ -218,8 +202,8 @@ export default [
                                 url: '',
                                 links: [
                                     { title: 'Welding Equipment', url: '' },
-                                    { title: 'Power Tools', url: '' },
-                                    { title: 'Hand Tools', url: '' },
+                                    { title: 'Tobaco products', url: '' },
+                                    { title: 'Beverages', url: '' },
                                     { title: 'Measuring Tool', url: '' },
                                 ],
                             },
@@ -230,7 +214,7 @@ export default [
         },
     },
     {
-        title: 'Building Supplies',
+        title: 'Grocery',
         url: '',
         submenu: {
             type: 'megamenu',
@@ -241,7 +225,7 @@ export default [
                         size: 12,
                         links: [
                             {
-                                title: 'Hand Tools',
+                                title: 'Beverages',
                                 url: '',
                                 links: [
                                     { title: 'Screwdrivers', url: '' },
@@ -269,7 +253,7 @@ export default [
         },
     },
     {
-        title: 'Electrical',
+        title: 'Snacks',
         url: '',
         submenu: {
             type: 'menu',
@@ -293,10 +277,7 @@ export default [
             ],
         },
     },
-    { title: 'Power Machinery', url: '', submenu: null },
-    { title: 'Measurement', url: '', submenu: null },
-    { title: 'Clothes & PPE', url: '', submenu: null },
-    { title: 'Plumbing', url: '', submenu: null },
-    { title: 'Storage & Organization', url: '', submenu: null },
-    { title: 'Welding & Soldering', url: '', submenu: null },
+    { title: 'Automotive', url: '', submenu: null },
+    { title: 'Store Use', url: '', submenu: null },
+    { title: 'Extras', url: '', submenu: null },
 ];

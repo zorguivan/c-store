@@ -25,9 +25,7 @@ export default function Footer() {
         { title: 'Store Location', url: '' },
         { title: 'Order History', url: '' },
         { title: 'Wish List', url: '' },
-        { title: 'Newsletter', url: '' },
         { title: 'Specials', url: '' },
-        { title: 'Gift Certificates', url: '' },
         { title: 'Affiliate', url: '' },
     ];
 
@@ -55,17 +53,10 @@ export default function Footer() {
                     <div className="site-footer__copyright">
                         Powered by
                         {' '}
-                        <a href="https://reactjs.org/" rel="noopener noreferrer" target="_blank">React</a>
+                        <a href="https://Quantadevs.com/" rel="noopener noreferrer" target="_blank">Quantadevs</a>
                         {' '}
-                        — Design by
-                        {' '}
-                        <a href={theme.author.profile_url} target="_blank" rel="noopener noreferrer">
-                            {theme.author.name}
-                        </a>
                     </div>
-                    <div className="site-footer__payments">
-                        <img src="images/payments.png" alt="" />
-                    </div>
+                    
                 </div>
             </div>
             <ToTop />
