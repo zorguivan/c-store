@@ -31,9 +31,9 @@ function HomePageTwo() {
     const featuredProducts = useProductTabs(
         useMemo(() => [
             { id: 1, name: 'All', categorySlug: undefined },
-            { id: 2, name: 'Power Tools', categorySlug: 'power-tools' },
-            { id: 3, name: 'Hand Tools', categorySlug: 'hand-tools' },
-            { id: 4, name: 'Plumbing', categorySlug: 'plumbing' },
+            { id: 2, name: 'Tobaco products', categorySlug: 'power-tools' },
+            { id: 3, name: 'Beverages', categorySlug: 'hand-tools' },
+            { id: 4, name: 'Vape & E-cig', categorySlug: 'Vape & E-cig' },
         ], []),
         (tab) => shopApi.getPopularProducts({ limit: 12, category: tab.categorySlug }),
     );
@@ -51,9 +51,9 @@ function HomePageTwo() {
     const latestProducts = useProductTabs(
         useMemo(() => [
             { id: 1, name: 'All', categorySlug: undefined },
-            { id: 2, name: 'Power Tools', categorySlug: 'power-tools' },
-            { id: 3, name: 'Hand Tools', categorySlug: 'hand-tools' },
-            { id: 4, name: 'Plumbing', categorySlug: 'plumbing' },
+            { id: 2, name: 'Tobaco products', categorySlug: 'power-tools' },
+            { id: 3, name: 'Beverages', categorySlug: 'hand-tools' },
+            { id: 4, name: 'Vape & E-cig', categorySlug: 'Vape & E-cig' },
         ], []),
         (tab) => shopApi.getLatestProducts({ limit: 8, category: tab.categorySlug }),
     );

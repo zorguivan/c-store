@@ -122,7 +122,7 @@
    $dark-color:                     $light-opposite-color !default;
    $dark-opposite-color:            $light-color          !default;
    // accent
-   $accent-color:                   #848dda               !default;
+   $accent-color:                   #ef8968               !default;
    $accent-opposite-color:          $light-opposite-color !default;
    //links
    $link-color:                     #1a66ff               !default;
@@ -299,7 +299,7 @@
    // ----------------------------------------
    // -- .nav-panel, .mobile-header
    // ----------------------------------------
-      $nav-panel-bg:           $accent-color                                                                   !default;
+      $nav-panel-bg:           #848dda                                                                   !default;
       $nav-panel-shadow:       0 1px rgba(#000, .04), inset 0 -1px rgba(#000, .04)                             !default;
       $nav-panel-stuck-shadow: 0 1px rgba(#000, .04), inset 0 -1px rgba(#000, .04), 0 1px 20px rgba(#000, .15) !default;
       $nav-panel-font-color:   $accent-opposite-color                                                          !default;
@@ -548,7 +548,7 @@
    // ----------------------------------------
       // primary
          // default
-         $btn-primary-bg-color:          $accent-color                 !default;
+         $btn-primary-bg-color:          #ef8968                 !default;
          $btn-primary-font-color:        $accent-opposite-color        !default;
          $btn-primary-icon-color:        $btn-primary-font-color       !default;
          // hover

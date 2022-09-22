@@ -28,7 +28,7 @@ class BlockSlideShow extends Component {
 
     slides = [
         {
-            title: 'Big choice of<br>Plumbing products',
+            title: 'Big choice of<br>Convenience Store Products',
             text: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.<br>Etiam pharetra laoreet dui quis molestie.',
             image_classic: {
                 ltr: 'images/slides/slide-1-ltr.jpg',

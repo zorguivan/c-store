@@ -4,56 +4,46 @@ const getId = makeIdGenerator();
 
 const categoriesDef = [
     {
-        name: 'Instruments',
-        slug: 'instruments',
+        name: 'Tobaco Products',
+        slug: 'tobaco-products',
         items: 272,
         children: [
             {
-                name: 'Power Tools',
-                slug: 'power-tools',
+                name: 'Cigars',
+                slug: 'cigars',
                 image: 'assets/images/categories/category-1.jpg',
                 items: 370,
                 children: [
                     {
-                        name: 'Drills & Mixers',
-                        slug: 'drills-mixers',
+                        name: 'Cigars Domestic',
+                        slug: 'cigars-domestic',
                         items: 57,
                     },
                     {
-                        name: 'Cordless Screwdrivers',
-                        slug: 'cordless-screwdrivers',
+                        name: 'Cigars High Grade',
+                        slug: 'cigars-high-grade',
                         items: 15,
                     },
                     {
-                        name: 'Screwdrivers',
-                        slug: 'screwdrivers',
+                        name: 'Lighters & Accessories',
+                        slug: 'lighters-accessories',
                         items: 126,
                     },
                     {
-                        name: 'Wrenches',
-                        slug: 'wrenches',
+                        name: 'Snuff & Chewing Tobaco',
+                        slug: 'snuff-chewing',
                         items: 12,
                     },
                     {
-                        name: 'Grinding Machines',
-                        slug: 'grinding-machines',
+                        name: 'Alternatives',
+                        slug: 'alternatives',
                         items: 25,
-                    },
-                    {
-                        name: 'Milling Cutters',
-                        slug: 'milling-cutters',
-                        items: 78,
-                    },
-                    {
-                        name: 'Electric Spray Guns',
-                        slug: 'electric-spray-guns',
-                        items: 3,
                     },
                 ],
             },
             {
-                name: 'Hand Tools',
-                slug: 'hand-tools',
+                name: 'Lighters & Accessories',
+                slug: 'lighters-accessories',
                 image: 'assets/images/categories/category-2.jpg',
                 items: 134,
                 children: [
@@ -85,8 +75,8 @@ const categoriesDef = [
                 ],
             },
             {
-                name: 'Machine Tools',
-                slug: 'machine-tools',
+                name: 'Snuff & Chewing Tobaco',
+                slug: 'snuff-chewing',
                 image: 'assets/images/categories/category-3.jpg',
                 items: 302,
                 children: [
@@ -219,13 +209,13 @@ const categoriesDef = [
         ],
     },
     {
-        name: 'Electronics',
-        slug: 'electronics',
+        name: 'Beverages',
+        slug: 'beverages',
         items: 54,
     },
     {
-        name: 'Computers',
-        slug: 'computers',
+        name: 'Snacks',
+        slug: 'snacks',
         items: 421,
     },
     {
@@ -234,13 +224,13 @@ const categoriesDef = [
         items: 182,
     },
     {
-        name: 'Furniture & Appliances',
-        slug: 'furniture-appliances',
+        name: 'Store Use',
+        slug: 'store-use',
         items: 15,
     },
     {
-        name: 'Music & Books',
-        slug: 'music-books',
+        name: 'Vape and E-Cig',
+        slug: 'vape-e-cig',
         items: 89,
     },
     {

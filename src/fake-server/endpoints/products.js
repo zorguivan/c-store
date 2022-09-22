@@ -13,7 +13,7 @@ function getProducts(shift, options) {
         products = products.slice().reverse();
     } else if (options.category === 'hand-tools') {
         products = [...products.slice(8), ...products.slice(0, 8)];
-    } else if (options.category === 'plumbing') {
+    } else if (options.category === 'Vape & E-cig') {
         products = [...products.slice(8), ...products.slice(0, 8)].reverse();
     }
 

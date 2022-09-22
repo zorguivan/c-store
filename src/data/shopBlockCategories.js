@@ -1,6 +1,6 @@
 export default [
     {
-        title: 'Power Tools',
+        title: 'Cigars',
         url: '/shop',
         products: 572,
         image: 'images/categories/category-1.jpg',
@@ -13,7 +13,7 @@ export default [
         ],
     },
     {
-        title: 'Hand Tools',
+        title: 'Cigarettes',
         url: '/shop',
         products: 134,
         image: 'images/categories/category-2.jpg',

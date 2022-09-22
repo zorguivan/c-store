@@ -16,7 +16,7 @@ export default [
         children: [
             {
                 type: 'link',
-                label: 'Power Tools',
+                label: 'Tobaco products',
                 url: '',
                 children: [
                     { type: 'link', label: 'Engravers', url: '' },

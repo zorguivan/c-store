@@ -24,8 +24,8 @@ export default function BlockFeatures(props) {
                             <FiFreeDelivery48Svg />
                         </div>
                         <div className="block-features__content">
-                            <div className="block-features__title">Free Shipping</div>
-                            <div className="block-features__subtitle">For orders from $50</div>
+                            <div className="block-features__title">Fast Shipping!</div>
+                            <div className="block-features__subtitle">You can order online</div>
                         </div>
                     </div>
                     <div className="block-features__divider" />
@@ -34,7 +34,7 @@ export default function BlockFeatures(props) {
                             <Fi24Hours48Svg />
                         </div>
                         <div className="block-features__content">
-                            <div className="block-features__title">Support 24/7</div>
+                            <div className="block-features__title">Excellent Support</div>
                             <div className="block-features__subtitle">Call us anytime</div>
                         </div>
                     </div>
@@ -55,7 +55,7 @@ export default function BlockFeatures(props) {
                         </div>
                         <div className="block-features__content">
                             <div className="block-features__title">Hot Offers</div>
-                            <div className="block-features__subtitle">Discounts up to 90%</div>
+                            <div className="block-features__subtitle">Discounts up to 40%</div>
                         </div>
                     </div>
                 </div>
