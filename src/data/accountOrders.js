@@ -1,21 +1,21 @@
 export default [
     {
         id: 8132,
-        date: '02 April, 2019',
+        date: '02 November, 2022',
         status: 'Pending',
-        total: '$2,719.00 for 5 item(s)',
+        total: '$2,719.00 for 23 item(s)',
     },
     {
         id: 7592,
-        date: '28 March, 2019',
+        date: '25 October, 2022',
         status: 'Pending',
-        total: '$374.00 for 3 item(s)',
+        total: '$1,374.00 for 15 item(s)',
     },
     {
         id: 7192,
-        date: '15 March, 2019',
+        date: '18 October, 2022',
         status: 'Shipped',
-        total: '$791.00 for 4 item(s)',
+        total: '$2791.00 for 24 item(s)',
     },
     {
         id: 6321,

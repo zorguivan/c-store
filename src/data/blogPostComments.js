@@ -20,7 +20,7 @@ export default {
                 {
                     id: 3,
                     avatar: 'images/avatars/avatar-3.jpg',
-                    author: 'Helena Garcia',
+                    author: 'Sam Omri',
                     date: 'December 12, 2018',
                     text: 'Suspendisse dignissim luctus metus vitae aliquam. Vestibulum sem odio, ullamcorper a imperdiet a, '
                         + 'tincidunt sed lacus. Sed magna felis, consequat a erat ut, rutrum finibus odio.',

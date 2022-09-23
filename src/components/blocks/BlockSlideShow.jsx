@@ -31,16 +31,16 @@ class BlockSlideShow extends Component {
             title: 'Big choice of<br>Convenience Store Products',
             text: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.<br>Etiam pharetra laoreet dui quis molestie.',
             image_classic: {
-                ltr: 'images/slides/slide-1-ltr.jpg',
-                rtl: 'images/slides/slide-1-rtl.jpg',
+                ltr: 'images/slides/shopping.jpg',
+                rtl: 'images/slides/shopping.jpg',
             },
             image_full: {
                 ltr: 'images/slides/slide-1-full-ltr.jpg',
                 rtl: 'images/slides/slide-1-full-rtl.jpg',
             },
             image_mobile: {
-                ltr: 'images/slides/slide-1-mobile.jpg',
-                rtl: 'images/slides/slide-1-mobile.jpg',
+                ltr: 'images/slides/shopping.jpg',
+                rtl: 'images/slides/shopping.jpg',
             },
         },
         {

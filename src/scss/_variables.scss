@@ -299,10 +299,11 @@
    // ----------------------------------------
    // -- .nav-panel, .mobile-header
    // ----------------------------------------
-      $nav-panel-bg:           #848dda                                                                   !default;
+   //gradiant(to right,#544e8a,#848dda) 
+      $nav-panel-bg:           linear-gradient(to right, #544e8a ,#848eda,#adc6ea,#a4c5e3)                                                              !default;
       $nav-panel-shadow:       0 1px rgba(#000, .04), inset 0 -1px rgba(#000, .04)                             !default;
       $nav-panel-stuck-shadow: 0 1px rgba(#000, .04), inset 0 -1px rgba(#000, .04), 0 1px 20px rgba(#000, .15) !default;
-      $nav-panel-font-color:   $accent-opposite-color                                                          !default;
+      $nav-panel-font-color:   #000                                                      !default;
       $nav-panel-logo-color:   $nav-panel-font-color                                                           !default;
       $nav-panel-height:       54px                                                                            !default;
       $nav-panel-padding:      6px                                                                             !default;

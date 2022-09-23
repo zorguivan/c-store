@@ -37,8 +37,8 @@ export default function AccountPageDashboard() {
                     <div className="profile-card__avatar">
                         <img src="images/avatars/avatar-3.jpg" alt="" />
                     </div>
-                    <div className="profile-card__name">Helena Garcia</div>
-                    <div className="profile-card__email">andy.b@skyline-c-store.com</div>
+                    <div className="profile-card__name">Sam Omri</div>
+                    <div className="profile-card__email">sam@quantadevs.com</div>
                     <div className="profile-card__edit">
                         <Link to="profile" className="btn btn-secondary btn-sm">Edit Profile</Link>
                     </div>

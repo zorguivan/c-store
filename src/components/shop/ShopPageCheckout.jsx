@@ -163,13 +163,7 @@ class ShopPageCheckout extends Component {
                 <div className="checkout block">
                     <div className="container">
                         <div className="row">
-                            <div className="col-12 mb-3">
-                                <div className="alert alert-primary alert-lg">
-                                    Returning customer?
-                                    {' '}
-                                    <Link to="/account/login">Click here to login</Link>
-                                </div>
-                            </div>
+                            
 
                             <div className="col-12 col-lg-6 col-xl-7">
                                 <div className="card mb-lg-0">
@@ -200,7 +194,6 @@ class ShopPageCheckout extends Component {
                                             <label htmlFor="checkout-company-name">
                                                 Company Name
                                                 {' '}
-                                                <span className="text-muted">(Optional)</span>
                                             </label>
                                             <input
                                                 type="text"

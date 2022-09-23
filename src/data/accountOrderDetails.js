@@ -60,10 +60,10 @@ export default {
     quantity: 6,
     subtotal: 5877,
     total: 5882,
-    paymentMethod: 'PayPal',
+    paymentMethod: 'Credit/Debit Card',
     shippingAddress: {
-        firstName: 'Helena',
-        lastName: 'Garcia',
+        firstName: 'Sam',
+        lastName: 'Omri',
         email: 'stroyka@example.com',
         phone: '38 972 588-42-36',
         country: 'Random Federation',

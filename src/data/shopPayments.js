@@ -17,7 +17,7 @@ export default [
     },
     {
         key: 'paypal',
-        title: 'PayPal',
+        title: 'Credit/Debit Card',
         description: 'Pay via PayPal; you can pay with your credit card if you don’t have a PayPal account.',
     },
 ];
