@@ -46,7 +46,6 @@ export default function AccountPageEditAddress() {
                             <label htmlFor="checkout-company-name">
                                 Company Name
                                 {' '}
-                                <span className="text-muted">(Optional)</span>
                             </label>
                             <input
                                 type="text"

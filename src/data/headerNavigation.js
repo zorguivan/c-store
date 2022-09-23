@@ -9,7 +9,7 @@ export default [
     },
     {
         title: 'Shop',
-        url: '/shop/category-grid-3-columns-sidebar',
+        url: '/shop/catalog',
     },
     {
         title: 'Account',

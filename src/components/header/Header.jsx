@@ -20,7 +20,7 @@ function Header(props) {
         bannerSection = (
             <div className="site-header__middle container">
                 <div className="site-header__logo">
-                    <Link to="/"><span style={{ fontSize: '40px', fontWeight: '700' }}>Skyline</span></Link>
+                    <Link to="/"><img src='images/logo.png' style={{ height:"100px",width:'160px' }}/></Link>
                 </div>
                 <div className="site-header__search">
                     <Search context="header" />

@@ -233,11 +233,6 @@ const categoriesDef = [
         slug: 'vape-e-cig',
         items: 89,
     },
-    {
-        name: 'Health & Beauty',
-        slug: 'health-beauty',
-        items: 201,
-    },
 ];
 
 function walkTree(defs, parent = null) {
