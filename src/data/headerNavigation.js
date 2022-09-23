@@ -5,7 +5,7 @@ export default [
     },
     {
         title: 'Shop',
-        url: '/shop',
+        url: '/shop/catalog',
     },
     {
         title: 'Account',
