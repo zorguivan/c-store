@@ -63,7 +63,7 @@ const productLayouts = [
         key={url}
         exact
         path={url}
-        render={(props) => <ShopPageProduct {...props} {...options} productSlug="brandix-screwdriver-screw1500acc" />}
+        render={(props) => <ShopPageProduct {...props} {...options} productSlug="marlboro-screwdriver-screw1500acc" />}
     />
 ));
 

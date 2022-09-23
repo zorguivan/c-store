@@ -20,7 +20,6 @@ const filterComponents = {
     range: FilterRange,
     check: FilterCheck,
     radio: FilterRadio,
-    color: FilterColor,
 };
 
 function WidgetFilters(props) {
@@ -104,15 +103,6 @@ function WidgetFilters(props) {
                 {filtersList}
             </div>
 
-            <div className="widget-filters__actions d-flex mb-n2">
-                <button
-                    type="button"
-                    className="btn btn-secondary btn-sm"
-                    onClick={handleResetFilters}
-                >
-                    Reset
-                </button>
-            </div>
         </div>
     );
 }

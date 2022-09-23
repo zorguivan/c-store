@@ -53,8 +53,8 @@ const categoriesDef = [
                         items: 57,
                     },
                     {
-                        name: 'Hammers',
-                        slug: 'hammers',
+                        name: 'Arizonas',
+                        slug: 'arizonas',
                         items: 15,
                     },
                     {
@@ -232,11 +232,6 @@ const categoriesDef = [
         name: 'Vape and E-Cig',
         slug: 'vape-e-cig',
         items: 89,
-    },
-    {
-        name: 'Health & Beauty',
-        slug: 'health-beauty',
-        items: 201,
     },
 ];
 

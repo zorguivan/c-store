@@ -5,8 +5,8 @@ export default {
     items: [
         {
             id: 1,
-            slug: 'electric-planer-brandix-kl370090g-300-watts',
-            name: 'Electric Planer Brandix KL370090G 300 Watts',
+            slug: 'electric-planer-marlboro-kl370090g-300-watts',
+            name: 'Electric Planer Marlboro KL370090G 300 Watts',
             image: 'images/products/product-1.jpg',
             options: [
                 {
@@ -33,8 +33,8 @@ export default {
         },
         {
             id: 5,
-            slug: 'brandix-router-power-tool-2017erxpk',
-            name: 'Brandix Router Power Tool 2017ERXPK',
+            slug: 'marlboro-router-power-tool-2017erxpk',
+            name: 'Marlboro Router Power Tool 2017ERXPK',
             image: 'images/products/product-5.jpg',
             options: [
                 {

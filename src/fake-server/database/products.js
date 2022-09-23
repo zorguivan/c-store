@@ -70,9 +70,9 @@ const attributesDef = [
 
 const productsDef = [
     {
-        slug: 'electric-planer-brandix-kl370090g-300-watts',
-        name: 'Electric Planer Brandix KL370090G 300 Watts',
-        price: 749,
+        slug: 'al-capone-cognac-filt-2pc',
+        name: 'AL CAPONE COGNAC FILT 2PK',
+        price: 45,
         images: [
             'images/products/product-1.jpg',
             'images/products/product-1-1.jpg',
@@ -81,21 +81,16 @@ const productsDef = [
         rating: 4,
         reviews: 12,
         availability: 'in-stock',
-        brand: 'brandix',
+        brand: 'marlboro',
         categories: ['screwdrivers'],
         attributes: [
             { slug: 'color', values: 'yellow' },
-            { slug: 'speed', values: '750-rpm', featured: true },
-            { slug: 'power-source', values: 'cordless-electric', featured: true },
-            { slug: 'battery-cell-type', values: 'lithium', featured: true },
-            { slug: 'voltage', values: '20-volts', featured: true },
-            { slug: 'battery-capacity', values: '2-Ah', featured: true },
         ],
     },
     {
-        slug: 'undefined-tool-iradix-dps3000sy-2700-watts',
-        name: 'Undefined Tool IRadix DPS3000SY 2700 Watts',
-        price: 1019,
+        slug: 'americas-best-chew-golden',
+        name: 'AMERICAs BEST CHEW GOLDEN',
+        price: 49,
         images: [
             'images/products/product-2.jpg',
             'images/products/product-2-1.jpg',
@@ -104,21 +99,16 @@ const productsDef = [
         rating: 5,
         reviews: 3,
         availability: 'in-stock',
-        brand: 'zosch',
+        brand: '555',
         categories: ['instruments'],
         attributes: [
-            { slug: 'color', values: ['silver', 'cerise'] },
-            { slug: 'speed', values: '750-rpm', featured: true },
-            { slug: 'power-source', values: 'cordless-electric', featured: true },
-            { slug: 'battery-cell-type', values: 'lithium', featured: true },
-            { slug: 'voltage', values: '20-volts', featured: true },
-            { slug: 'battery-capacity', values: '2-Ah', featured: true },
+            { slug: 'color', values: ['silver', 'cerise'] }
         ],
     },
     {
-        slug: 'drill-screwdriver-brandix-alx7054-200-watts',
-        name: 'Drill Screwdriver Brandix ALX7054 200 Watts',
-        price: 850,
+        slug: 'b-riff-cherry-liquor-pkt',
+        name: 'B RIFF CHERRY LIQUOR PKT',
+        price: 35,
         images: [
             'images/products/product-3.jpg',
             'images/products/product-3-1.jpg',
@@ -126,7 +116,7 @@ const productsDef = [
         rating: 4,
         reviews: 8,
         availability: 'in-stock',
-        brand: 'brandix',
+        brand: 'marlboro',
         categories: ['power-tools'],
         attributes: [
             { slug: 'color', values: 'yellow' },
@@ -138,10 +128,10 @@ const productsDef = [
         ],
     },
     {
-        slug: 'drill-series-3-brandix-ksr4590pqs-1500-watts',
-        name: 'Drill Series 3 Brandix KSR4590PQS 1500 Watts',
-        price: 949,
-        compareAtPrice: 1189,
+        slug: 'bic-6tier-320ct-ez-reach',
+        name: 'BIC 6TIER 320ct EZ-REACH',
+        price: 23.50,
+        compareAtPrice: 28.50,
         images: [
             'images/products/product-4.jpg',
             'images/products/product-4-1.jpg',
@@ -150,7 +140,7 @@ const productsDef = [
         rating: 3,
         reviews: 15,
         availability: 'in-stock',
-        brand: 'brandix',
+        brand: 'marlboro',
         categories: [],
         attributes: [
             { slug: 'color', values: 'white' },
@@ -162,9 +152,9 @@ const productsDef = [
         ],
     },
     {
-        slug: 'brandix-router-power-tool-2017erxpk',
-        name: 'Brandix Router Power Tool 2017ERXPK',
-        price: 1700,
+        slug: '5-hour-180ct-combo-rack',
+        name: '5-HOUR 180ct COMBO RACK',
+        price: 35,
         images: [
             'images/products/product-5.jpg',
             'images/products/product-5-1.jpg',
@@ -172,7 +162,7 @@ const productsDef = [
         rating: 4,
         reviews: 2,
         availability: 'in-stock',
-        brand: 'wakita',
+        brand: 'blackandmild',
         categories: [],
         attributes: [
             { slug: 'color', values: 'dark-blue' },
@@ -184,9 +174,9 @@ const productsDef = [
         ],
     },
     {
-        slug: 'brandix-drilling-machine-dm2019kw4-4kw',
-        name: 'Brandix Drilling Machine DM2019KW4 4kW',
-        price: 3199,
+        slug: 'arizona-mucho-mango-23oz',
+        name: 'ARIZONA MUCHO MANGO 23z',
+        price: 6.99,
         images: [
             'images/products/product-6.jpg',
             'images/products/product-6-1.jpg',
@@ -194,7 +184,7 @@ const productsDef = [
         rating: 3,
         reviews: 21,
         availability: 'in-stock',
-        brand: 'wakita',
+        brand: 'blackandmild',
         categories: [],
         attributes: [
             { slug: 'color', values: 'orange' },
@@ -206,17 +196,17 @@ const productsDef = [
         ],
     },
     {
-        slug: 'brandix-pliers',
-        name: 'Brandix Pliers',
+        slug: '555-state-express-gk',
+        name: '555 STATE EXPRESS KG',
         price: 24,
         images: [
             'images/products/product-7.jpg',
             'images/products/product-7-1.jpg',
         ],
-        rating: 2,
-        reviews: 1,
+        rating: 5,
+        reviews: 5,
         availability: 'in-stock',
-        brand: 'wevalt',
+        brand: 'redman',
         categories: [],
         attributes: [
             { slug: 'color', values: 'red' },
@@ -228,9 +218,9 @@ const productsDef = [
         ],
     },
     {
-        slug: 'water-hose-40cm',
-        name: 'Water Hose 40cm',
-        price: 15,
+        slug: 'crest-toothpaste-4.2-oz',
+        name: 'CREST TOOTHPASTE 4.2 oz',
+        price: 12,
         images: [
             'images/products/product-8.jpg',
             'images/products/product-8-1.jpg',
@@ -238,7 +228,7 @@ const productsDef = [
         rating: 2,
         reviews: 5,
         availability: 'in-stock',
-        brand: 'hammer',
+        brand: 'arizona',
         categories: [],
         attributes: [
             { slug: 'color', values: ['pear-green', 'blue'] },
@@ -250,8 +240,8 @@ const productsDef = [
         ],
     },
     {
-        slug: 'spanner-wrench',
-        name: 'Spanner Wrench',
+        slug: 'animal-crackers-20oz CRACKERS 2OZ',
+        name: 'ANIMAL CRACKERS 2OZ',
         price: 19,
         images: [
             'images/products/product-9.jpg',
@@ -260,7 +250,7 @@ const productsDef = [
         rating: 4,
         reviews: 34,
         availability: 'in-stock',
-        brand: 'hammer',
+        brand: 'arizona',
         categories: [],
         attributes: [
             { slug: 'color', values: 'green' },
@@ -282,7 +272,7 @@ const productsDef = [
         rating: 5,
         reviews: 3,
         availability: 'in-stock',
-        brand: 'hammer',
+        brand: 'arizona',
         categories: [],
         attributes: [
             { slug: 'color', values: 'gray' },
@@ -304,7 +294,7 @@ const productsDef = [
         rating: 4,
         reviews: 7,
         availability: 'in-stock',
-        brand: 'hammer',
+        brand: 'arizona',
         categories: [],
         attributes: [
             { slug: 'color', values: 'black' },
@@ -326,7 +316,7 @@ const productsDef = [
         rating: 5,
         reviews: 17,
         availability: 'in-stock',
-        brand: 'mitasia',
+        brand: 'swishers',
         categories: [],
         attributes: [
             { slug: 'color', values: 'violet' },
@@ -338,7 +328,7 @@ const productsDef = [
         ],
     },
     {
-        slug: 'brandix-angle-grinder-kzx3890pqw',
+        slug: 'marlboro-angle-grinder-kzx3890pqw',
         name: 'Marlboro Gold Box',
         price: 78,
         images: [
@@ -348,7 +338,7 @@ const productsDef = [
         rating: 4,
         reviews: 8,
         availability: 'in-stock',
-        brand: 'mitasia',
+        brand: 'swishers',
         categories: [],
         attributes: [
             { slug: 'color', values: 'purple' },
@@ -360,7 +350,7 @@ const productsDef = [
         ],
     },
     {
-        slug: 'brandix-air-compressor-deltakx500',
+        slug: 'marlboro-air-compressor-deltakx500',
         name: '10/10 Jewlery bags',
         price: 4,
         images: [
@@ -370,7 +360,7 @@ const productsDef = [
         rating: 3,
         reviews: 14,
         availability: 'in-stock',
-        brand: 'brandix',
+        brand: 'marlboro',
         categories: [],
         attributes: [
             { slug: 'color', values: ['light-gray', 'emerald'] },
@@ -382,8 +372,8 @@ const productsDef = [
         ],
     },
     {
-        slug: 'brandix-electric-jigsaw-jig7000bq',
-        name: 'Brandix Electric Jigsaw JIG7000BQ',
+        slug: 'marlboro-electric-jigsaw-jig7000bq',
+        name: 'Marlboro Electric Jigsaw JIG7000BQ',
         price: 290,
         images: [
             'images/products/product-15.jpg',
@@ -392,7 +382,7 @@ const productsDef = [
         rating: 2,
         reviews: 1,
         availability: 'in-stock',
-        brand: 'brandix',
+        brand: 'marlboro',
         categories: [],
         attributes: [
             { slug: 'color', values: ['coal', 'shamrock'] },
@@ -404,8 +394,8 @@ const productsDef = [
         ],
     },
     {
-        slug: 'brandix-screwdriver-screw1500acc',
-        name: 'Brandix Screwdriver SCREW1500ACC',
+        slug: 'marlboro-screwdriver-screw1500acc',
+        name: 'Marlboro Screwdriver SCREW1500ACC',
         price: 1499,
         images: [
             'images/products/product-16.jpg',
@@ -417,7 +407,7 @@ const productsDef = [
         rating: 5,
         reviews: 3,
         availability: 'in-stock',
-        brand: 'metaggo',
+        brand: 'oldtyme',
         categories: [],
         attributes: [
             { slug: 'color', values: ['dark-gray', 'shakespeare'] },

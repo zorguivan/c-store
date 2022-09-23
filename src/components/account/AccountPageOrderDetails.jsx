@@ -44,7 +44,7 @@ export default function AccountPageOrderDetails() {
                             </thead>
                             <tbody className="card-table__body card-table__body--merge-rows">
                                 <tr>
-                                    <td>Electric Planer Brandix KL370090G 300 Watts × 2</td>
+                                    <td>Electric Planer Marlboro KL370090G 300 Watts × 2</td>
                                     <td>$1,398.00</td>
                                 </tr>
                                 <tr>
@@ -52,7 +52,7 @@ export default function AccountPageOrderDetails() {
                                     <td>$849.00</td>
                                 </tr>
                                 <tr>
-                                    <td>Brandix Router Power Tool 2017ERXPK × 3</td>
+                                    <td>Marlboro Router Power Tool 2017ERXPK × 3</td>
                                     <td>$3,630.00</td>
                                 </tr>
                             </tbody>

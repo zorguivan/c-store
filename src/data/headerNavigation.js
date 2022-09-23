@@ -4,12 +4,8 @@ export default [
         url: '',
     },
     {
-        title: 'Monthly Specials',
-        url: '',
-    },
-    {
         title: 'Shop',
-        url: '/shop/category-grid-3-columns-sidebar',
+        url: '/shop',
     },
     {
         title: 'Account',

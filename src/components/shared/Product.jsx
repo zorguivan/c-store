@@ -127,7 +127,7 @@ class Product extends Component {
                             </li>
                             <li>
                                 Brand:
-                                <Link to="/">Wakita</Link>
+                                <Link to="/">BlackAndMild</Link>
                             </li>
                             <li>SKU: 83690/32</li>
                         </ul>
